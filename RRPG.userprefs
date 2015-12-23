@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="NavigationUnifiedSample/RRPG.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationUnifiedSample/RootViewController.cs">
+    <Files>
+      <File FileName="NavigationUnifiedSample/NavController.cs" Line="19" Column="4" />
+      <File FileName="NavigationUnifiedSample/ContentController.cs" Line="36" Column="15" />
+      <File FileName="NavigationUnifiedSample/RootViewController.cs" Line="36" Column="24" />
+      <File FileName="Components/btprogresshud-1.20/samples/BTProgressHUDSample/BTProgressHUDSample/MainView.cs" Line="123" Column="61" />
+      <File FileName="Components/btprogresshud-1.20/samples/BTProgressHUDSample/BTProgressHUDSample/Main.cs" Line="1" Column="1" />
+      <File FileName="Components/btprogresshud-1.20/samples/BTProgressHUDSample/BTProgressHUDSample/AppDelegate.cs" Line="37" Column="29" />
+      <File FileName="Components/btprogresshud-1.20/samples/BTProgressHUDSample/BTProgressHUDSample/Info.plist" />
+      <File FileName="NavigationUnifiedSample/AppDelegate.cs" Line="41" Column="1" NotebookId="1" />
+      <File FileName="NavigationUnifiedSample/Main.cs" Line="16" Column="31" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BTProgressHUDSample" expanded="True">
+            <Node name="BTProgressHUDDemo" expanded="True" selected="True" />
+          </Node>
+          <Node name="RRPG" expanded="True">
+            <Node name="RRPG" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

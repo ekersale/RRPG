@@ -1,0 +1,13 @@
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/actool/partial-info.plist
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/optimized/Default-568h@2x.png
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/optimized/threelines.png
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/optimized/Entitlements.plist
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/optimized/
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/bin/iPhone/Debug/NavigationUnifiedSample.exe.mdb
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/bin/iPhone/Debug/NavigationUnifiedSample.exe
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/NavigationUnifiedSample.exe
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/obj/iPhone/Debug/NavigationUnifiedSample.exe.mdb
+/Users/kersal_e/Downloads/SidebarNavigation-1.9/samples/NavigationUnifiedSample/NavigationUnifiedSample/bin/iPhone/Debug/Xamarin-Sidebar-Unified.dll
